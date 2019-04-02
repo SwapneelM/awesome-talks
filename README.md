@@ -14,7 +14,7 @@ List of awesome talks on a range of subjects from academia to industry to infini
 2. [Anatomy of Matplotlib (Beginner Level) | SciPy 2018 Tutorial | Benjamin Root & Hannah Aizenman](https://www.youtube.com/watch?v=6gdNUDs6QPc)
 3. [The Sheer Joy of Packaging | SciPy 2018 Tutorial | Sarahan, McCormick, Fillion-Robin...](https://www.youtube.com/watch?v=xiI1i525ljE)
 4. [Anatomy of Matplotlib | SciPy 2017 Tutorial | Ben Root](https://www.youtube.com/watch?v=rARMKS8jE9g)
-5. [Michael Sarahan - Making packages and packaging just work](https://www.youtube.com/watch?v=Kamld5Z-xx0)
+5. [Michael Sarahan - Making packages and packaging "just work"](https://www.youtube.com/watch?v=Kamld5Z-xx0)
 
 * Slides [PDF]
 1. [Andreas Mueller - Building scikit-learn 2018](https://github.com/amueller/talks_odt/blob/master/2018/building_scikit_learn.pdf)
