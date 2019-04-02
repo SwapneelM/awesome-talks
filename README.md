@@ -1,5 +1,5 @@
 # awesome-talks
-List of awesome talks from academia to industry and the real-world.
+List of awesome talks on a range of subjects from academia to industry to infinity and beyond.
 
 
 ## Developing Software in Science
